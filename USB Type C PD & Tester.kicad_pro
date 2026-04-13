@@ -58,7 +58,28 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        [
+          "unconnected_items|102275000|98100000|F.Cu|4|1a65b21d-ddcd-4955-92b7-f4eeec86fedd|fd1b90b1-09ed-47fc-8a44-7810e06ebfb7",
+          ""
+        ],
+        [
+          "unconnected_items|76865200|108294600|F.Cu|4|6249c720-5ad3-4935-8ba0-9af6b83b9648|04e1afd2-0270-4c7f-abb1-b6dd5b3648ea",
+          ""
+        ],
+        [
+          "unconnected_items|89466300|93737100|F.Cu|4|3bd83dbd-45b6-4cbe-882f-ca0af957d523|f39ad0d4-511b-41df-b21b-ec42e80fd862",
+          ""
+        ],
+        [
+          "unconnected_items|89500000|95000000|F.Cu|4|8ab914fd-1958-472d-879d-858be5136f83|5c6812c5-cecf-449e-ac6d-bdc9d8521138",
+          ""
+        ],
+        [
+          "unconnected_items|94689200|104282500|F.Cu|4|664ced32-19c8-4356-9950-a21c4dd70c0c|643275f2-2057-4018-8f85-9a51a78d5350",
+          ""
+        ]
+      ],
       "meta": {
         "version": 2
       },
@@ -502,9 +523,9 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "../../../Dummy2/New DD/",
       "pos_files": "",
-      "specctra_dsn": "../../../../../Downloads/USB Type C PD & Tester.dsn",
+      "specctra_dsn": "../../../SDN File/USB Type C PD & Tester.dsn",
       "step": "",
       "svg": "",
       "vrml": ""
@@ -637,7 +658,7 @@
     },
     "net_format_name": "",
     "page_layout_descr_file": "",
-    "plot_directory": "../../../Dummy2/New DD/",
+    "plot_directory": "../../../Final Usb PD Tester /",
     "space_save_all_events": true,
     "spice_current_sheet_as_root": false,
     "spice_external_command": "spice \"%I\"",
